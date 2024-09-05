@@ -33,3 +33,4 @@ server/vendor/
 **/.test/
 **/.release/
 **/.tarballs/
+/.idea/
